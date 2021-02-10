@@ -362,4 +362,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 out/
-Lib/doc/
+Lib/asio-1.18.1/doc/
