@@ -1,5 +1,5 @@
-#ifndef NETSERVER_H
-#define NETSERVER_H
+#ifndef NETSERVER_HPP
+#define NETSERVER_HPP
 
 #include "NetCommon.hpp"
 #include "NetThreadSafeQueue.hpp"
