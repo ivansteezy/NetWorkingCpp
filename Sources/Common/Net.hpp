@@ -6,7 +6,7 @@
 #include "NetMessage.hpp"
 #include "NetConnection.hpp"
 #include "NetThreadSafeQueue.hpp"
-#include "NetServer.h"
+#include "NetServer.hpp"
 
 
 #endif
